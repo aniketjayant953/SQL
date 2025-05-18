@@ -1,0 +1,87 @@
+"index";"name";"rating";"genre";"year";"released";"score";"votes";"director";"writer";"star";"country";"budget";"gross";"company";"runtime"
+0;"The Shining";"R";"Drama";1980;"June 13, 1980 (United States)";8.4;927000.0;"Stanley Kubrick";"Stephen King";"Jack Nicholson";"United Kingdom";19000000.0;46998772.0;"Warner Bros.";146.0
+1;"The Blue Lagoon";"R";"Adventure";1980;"July 2, 1980 (United States)";5.8;65000.0;"Randal Kleiser";"Henry De Vere Stacpoole";"Brooke Shields";"United States";4500000.0;58853106.0;"Columbia Pictures";104.0
+2;"Star Wars: Episode V - The Empire Strikes Back";"PG";"Action";1980;"June 20, 1980 (United States)";8.7;1200000.0;"Irvin Kershner";"Leigh Brackett";"Mark Hamill";"United States";18000000.0;538375067.0;"Lucasfilm";124.0
+3;"Airplane!";"PG";"Comedy";1980;"July 2, 1980 (United States)";7.7;221000.0;"Jim Abrahams";"Jim Abrahams";"Robert Hays";"United States";3500000.0;83453539.0;"Paramount Pictures";88.0
+4;"Caddyshack";"R";"Comedy";1980;"July 25, 1980 (United States)";7.3;108000.0;"Harold Ramis";"Brian Doyle-Murray";"Chevy Chase";"United States";6000000.0;39846344.0;"Orion Pictures";98.0
+5;"Friday the 13th";"R";"Horror";1980;"May 9, 1980 (United States)";6.4;123000.0;"Sean S. Cunningham";"Victor Miller";"Betsy Palmer";"United States";550000.0;39754601.0;"Paramount Pictures";95.0
+6;"The Blues Brothers";"R";"Action";1980;"June 20, 1980 (United States)";7.9;188000.0;"John Landis";"Dan Aykroyd";"John Belushi";"United States";27000000.0;115229890.0;"Universal Pictures";133.0
+7;"Raging Bull";"R";"Biography";1980;"December 19, 1980 (United States)";8.2;330000.0;"Martin Scorsese";"Jake LaMotta";"Robert De Niro";"United States";18000000.0;23402427.0;"Chartoff-Winkler Productions";129.0
+8;"Superman II";"PG";"Action";1980;"June 19, 1981 (United States)";6.8;101000.0;"Richard Lester";"Jerry Siegel";"Gene Hackman";"United States";54000000.0;108185706.0;"Dovemead Films";127.0
+9;"The Long Riders";"R";"Biography";1980;"May 16, 1980 (United States)";7.0;10000.0;"Walter Hill";"Bill Bryden";"David Carradine";"United States";10000000.0;15795189.0;"United Artists";100.0
+10;"Any Which Way You Can";"PG";"Action";1980;"December 17, 1980 (United States)";6.1;18000.0;"Buddy Van Horn";"Stanford Sherman";"Clint Eastwood";"United States";15000000.0;70687344.0;"The Malpaso Company";116.0
+11;"The Gods Must Be Crazy";"PG";"Adventure";1980;"October 26, 1984 (United States)";7.3;54000.0;"Jamie Uys";"Jamie Uys";"N!xau";"South Africa";5000000.0;30031783.0;"C.A.T. Films";109.0
+12;"Popeye";"PG";"Adventure";1980;"December 12, 1980 (United States)";5.3;30000.0;"Robert Altman";"Jules Feiffer";"Robin Williams";"United States";20000000.0;49823037.0;"Paramount Pictures";114.0
+13;"Ordinary People";"R";"Drama";1980;"September 19, 1980 (United States)";7.7;49000.0;"Robert Redford";"Judith Guest";"Donald Sutherland";"United States";6000000.0;54766923.0;"Paramount Pictures";124.0
+14;"Dressed to Kill";"R";"Crime";1980;"July 25, 1980 (United States)";7.1;37000.0;"Brian De Palma";"Brian De Palma";"Michael Caine";"United States";6500000.0;31899000.0;"Filmways Pictures";104.0
+15;"Somewhere in Time";"PG";"Drama";1980;"October 3, 1980 (United States)";7.2;27000.0;"Jeannot Szwarc";"Richard Matheson";"Christopher Reeve";"United States";5100000.0;9709597.0;"Rastar Pictures";103.0
+16;"Fame";"R";"Drama";1980;"May 16, 1980 (United States)";6.6;21000.0;"Alan Parker";"Christopher Gore";"Eddie Barth";"United States";0.0;21202829.0;"Metro-Goldwyn-Mayer (MGM)";134.0
+17;"9 to 5";"PG";"Comedy";1980;"December 19, 1980 (United States)";6.9;29000.0;"Colin Higgins";"Patricia Resnick";"Jane Fonda";"United States";10000000.0;103300686.0;"IPC Films";109.0
+18;"The Fog";"R";"Horror";1980;"February 8, 1980 (United States)";6.8;66000.0;"John Carpenter";"John Carpenter";"Adrienne Barbeau";"United States";1000000.0;21448782.0;"AVCO Embassy Pictures";89.0
+19;"Stir Crazy";"R";"Comedy";1980;"December 12, 1980 (United States)";6.8;26000.0;"Sidney Poitier";"Bruce Jay Friedman";"Gene Wilder";"United States";0.0;101300000.0;"Columbia Pictures";111.0
+20;"Cruising";"R";"Crime";1980;"February 15, 1980 (United States)";6.5;20000.0;"William Friedkin";"William Friedkin";"Al Pacino";"West Germany";11000000.0;19814523.0;"Lorimar Film Entertainment";102.0
+21;"Heaven's Gate";"R";"Adventure";1980;"April 24, 1981 (United States)";6.8;14000.0;"Michael Cimino";"Michael Cimino";"Kris Kristofferson";"United States";44000000.0;3484523.0;"Partisan Productions";219.0
+22;"The Final Countdown";"PG";"Action";1980;"August 1, 1980 (United States)";6.7;22000.0;"Don Taylor";"Thomas Hunter";"Kirk Douglas";"United States";12000000.0;16647800.0;"Bryna Productions";103.0
+23;"Xanadu";"PG";"Fantasy";1980;"August 8, 1980 (United States)";5.3;12000.0;"Robert Greenwald";"Richard Christian Danus";"Olivia Newton-John";"United States";20000000.0;22762571.0;"Universal Pictures";96.0
+24;"Urban Cowboy";"PG";"Drama";1980;"June 6, 1980 (United States)";6.4;14000.0;"James Bridges";"Aaron Latham";"John Travolta";"United States";0.0;46918287.0;"Paramount Pictures";132.0
+25;"Altered States";"R";"Horror";1980;"December 25, 1980 (United States)";6.9;33000.0;"Ken Russell";"Paddy Chayefsky";"William Hurt";"United States";0.0;19853892.0;"Warner Bros.";102.0
+26;"Little Darlings";"R";"Comedy";1980;"March 21, 1980 (United States)";6.5;5100.0;"Ron Maxwell";"Kimi Peck";"Tatum O'Neal";"United States";0.0;34326249.0;"Stephen Friedman/Kings Road Productions";96.0
+27;"Raise the Titanic";"PG";"Action";1980;"August 1, 1980 (United States)";5.0;4100.0;"Jerry Jameson";"Adam Kennedy";"Jason Robards";"United Kingdom";36000000.0;0.0;"ITC Films";115.0
+28;"Brubaker";"R";"Crime";1980;"June 20, 1980 (United States)";7.2;17000.0;"Stuart Rosenberg";"W.D. Richter";"Robert Redford";"United States";9000000.0;37121708.0;"Twentieth Century Fox";131.0
+29;"American Gigolo";"R";"Crime";1980;"February 1, 1980 (United States)";6.2;22000.0;"Paul Schrader";"Paul Schrader";"Richard Gere";"United States";4800000.0;22743674.0;"Paramount Pictures";117.0
+30;"My Bodyguard";"PG";"Comedy";1980;"September 26, 1980 (United States)";7.1;8900.0;"Tony Bill";"Alan Ormsby";"Chris Makepeace";"United States";0.0;22482952.0;"Twentieth Century Fox";102.0
+31;"Prom Night";"R";"Horror";1980;"July 18, 1980 (United States)";5.4;16000.0;"Paul Lynch";"William Gray";"Leslie Nielsen";"Canada";0.0;14796236.0;"Guardian Trust Company";92.0
+32;"Smokey and the Bandit II";"PG";"Action";1980;"August 15, 1980 (United States)";5.3;15000.0;"Hal Needham";"Hal Needham";"Burt Reynolds";"United States";0.0;66132626.0;"Universal Pictures";100.0
+33;"Cattle Annie and Little Britches";"PG";"Drama";1980;"April 24, 1981 (United States)";6.1;604.0;"Lamont Johnson";"David Eyre";"Scott Glenn";"United States";5100000.0;534816.0;"Cattle Annie Productions";97.0
+34;"Seems Like Old Times";"PG";"Comedy";1980;"December 19, 1980 (United States)";6.7;9100.0;"Jay Sandrich";"Neil Simon";"Goldie Hawn";"United States";0.0;43995918.0;"Rastar Films";102.0
+35;"Private Benjamin";"R";"Comedy";1980;"October 10, 1980 (United States)";6.2;24000.0;"Howard Zieff";"Nancy Meyers";"Goldie Hawn";"United States";10000000.0;69847348.0;"Warner Bros.";109.0
+36;"The Hollywood Knights";"R";"Comedy";1980;"May 30, 1980 (United States)";6.3;4300.0;"Floyd Mutrux";"Floyd Mutrux";"Tony Danza";"United States";4000000.0;10000000.0;"PolyGram Filmed Entertainment";91.0
+37;"Motel Hell";"R";"Comedy";1980;"October 24, 1980 (United States)";6.0;11000.0;"Kevin Connor";"Robert Jaffe";"Rory Calhoun";"United States";3000000.0;6342668.0;"Camp Hill";101.0
+38;"The Jazz Singer";"PG";"Drama";1980;"December 19, 1980 (United States)";5.9;4000.0;"Richard Fleischer";"Samson Raphaelson";"Laurence Olivier";"United States";0.0;27118000.0;"EMI Films";115.0
+39;"Coal Miner's Daughter";"PG";"Biography";1980;"March 7, 1980 (United States)";7.5;17000.0;"Michael Apted";"Thomas Rickman";"Sissy Spacek";"United States";0.0;67182787.0;"Universal Pictures";124.0
+40;"The Watcher in the Woods";"PG";"Family";1980;"October 9, 1981 (United States)";6.3;5700.0;"John Hough";"Brian Clemens";"Bette Davis";"United States";0.0;5000000.0;"Walt Disney Productions";84.0
+41;"Breaker Morant";"PG";"Drama";1980;"July 3, 1980 (Australia)";7.9;13000.0;"Bruce Beresford";"Jonathan Hardy";"Edward Woodward";"Australia";0.0;0.0;"The South Australian Film Corporation";107.0
+42;"The Stunt Man";"R";"Action";1980;"June 27, 1980 (United States)";7.1;9000.0;"Richard Rush";"Lawrence B. Marcus";"Peter O'Toole";"United States";3500000.0;7063886.0;"Melvin Simon Productions";131.0
+43;"Where the Buffalo Roam";"R";"Biography";1980;"April 25, 1980 (United States)";6.6;11000.0;"Art Linson";"Hunter S. Thompson";"Peter Boyle";"United States";0.0;6659377.0;"Universal Pictures";99.0
+44;"The Awakening";"R";"Horror";1980;"October 31, 1980 (United States)";4.8;2000.0;"Mike Newell";"Allan Scott";"Charlton Heston";"United Kingdom";0.0;8415112.0;"EMI Films";101.0
+45;"Cheech and Chong's Next Movie";"R";"Comedy";1980;"July 18, 1980 (United States)";6.1;12000.0;"Tommy Chong";"Tommy Chong";"Cheech Marin";"United States";0.0;41675194.0;"Universal Pictures";99.0
+46;"The Island";"R";"Action";1980;"June 13, 1980 (United States)";5.3;3900.0;"Michael Ritchie";"Peter Benchley";"Michael Caine";"United States";22000000.0;15716828.0;"Universal Pictures";109.0
+47;"The Boogey Man";"R";"Horror";1980;"November 7, 1980 (United States)";4.6;3900.0;"Ulli Lommel";"Ulli Lommel";"Suzanna Love";"United States";300000.0;0.0;"The Jerry Gross Organization";82.0
+48;"The Nude Bomb";"PG";"Action";1980;"May 9, 1980 (United States)";5.1;3100.0;"Clive Donner";"Mel Brooks";"Don Adams";"United States";15000000.0;14662035.0;"Universal Pictures";94.0
+49;"Lion of the Desert";"PG";"Biography";1980;"May 16, 1981 (Japan)";8.3;15000.0;"Moustapha Akkad";"David Butler";"Anthony Quinn";"Libya";35000000.0;0.0;"Falcon International Productions";173.0
+50;"Stardust Memories";"PG";"Comedy";1980;"September 26, 1980 (United States)";7.3;22000.0;"Woody Allen";"Woody Allen";"Woody Allen";"United States";10000000.0;10389003.0;"Jack Rollins & Charles H. Joffe Productions";89.0
+51;"Melvin and Howard";"R";"Comedy";1980;"September 19, 1980 (United States)";6.8;4500.0;"Jonathan Demme";"Bo Goldman";"Paul Le Mat";"United States";7000000.0;4309490.0;"Universal Pictures";95.0
+52;"Can't Stop the Music";"PG";"Biography";1980;"June 20, 1980 (United States)";4.2;3700.0;"Nancy Walker";"Bronte Woodard";"Ray Simpson";"United States";20000000.0;0.0;"EMI Films";124.0
+53;"Bronco Billy";"PG";"Action";1980;"June 11, 1980 (United States)";6.1;11000.0;"Clint Eastwood";"Dennis Hackin";"Clint Eastwood";"United States";6500000.0;24265659.0;"Warner Bros.";116.0
+54;"City of Women";"R";"Comedy";1980;"April 8, 1981 (United States)";7.0;6700.0;"Federico Fellini";"Federico Fellini";"Marcello Mastroianni";"Italy";0.0;12516.0;"Opera Film Produzione";139.0
+55;"The Private Eyes";"PG";"Comedy";1980;"November 21, 1980 (United States)";6.7;2900.0;"Lang Elliott";"Tim Conway";"Tim Conway";"United States";0.0;0.0;"Tri Star Productions";91.0
+56;"When Time Ran Out...";"PG";"Action";1980;"March 28, 1980 (United States)";4.6;2600.0;"James Goldstone";"Gordon Thomas";"Paul Newman";"United States";20000000.0;3763988.0;"International Cinema";121.0
+57;"Oh Heavenly Dog";"PG";"Comedy";1980;"July 11, 1980 (United States)";5.4;2400.0;"Joe Camp";"Rod Browning";"Chevy Chase";"United States";6000000.0;6216067.0;"Mulberry Square Productions";103.0
+58;"The Octagon";"R";"Action";1980;"August 15, 1980 (United States)";5.1;5200.0;"Eric Karson";"Leigh Chapman";"Chuck Norris";"United States";4000000.0;18971000.0;"American Cinema Productions";103.0
+59;"Hangar 18";"PG";"Sci-Fi";1980;"March 13, 1981 (Ireland)";5.3;2400.0;"James L. Conway";"Ken Pettus";"Darren McGavin";"United States";11000000.0;0.0;"Sunn Classic Pictures";97.0
+60;"Herbie Goes Bananas";"G";"Adventure";1980;"June 25, 1980 (United States)";5.0;5300.0;"Vincent McEveety";"Don Tait";"Charles Martin Smith";"United States";0.0;18000000.0;"Walt Disney Productions";100.0
+61;"The Competition";"PG";"Drama";1980;"December 3, 1980 (United States)";6.7;1900.0;"Joel Oliansky";"Joel Oliansky";"Richard Dreyfuss";"United States";0.0;14287755.0;"Rastar Films";123.0
+62;"It's My Turn";"R";"Comedy";1980;"February 5, 1981 (Argentina)";5.5;875.0;"Claudia Weill";"Eleanor Bergstein";"Jill Clayburgh";"United States";0.0;0.0;"Rastar Films";91.0
+63;"Honeysuckle Rose";"PG";"Drama";1980;"July 18, 1980 (United States)";6.3;1400.0;"Jerry Schatzberg";"Gösta Stevens";"Willie Nelson";"United States";0.0;17815212.0;"Major Studio Partners";119.0
+64;"Resurrection";"PG";"Drama";1980;"September 26, 1980 (United States)";7.3;2800.0;"Daniel Petrie";"Lewis John Carlino";"Ellen Burstyn";"United States";0.0;3910019.0;"Universal Pictures";103.0
+65;"Fatso";"PG";"Comedy";1980;"February 1, 1980 (United States)";6.3;2000.0;"Anne Bancroft";"Anne Bancroft";"Dom DeLuise";"United States";0.0;7653061.0;"Brooksfilms";93.0
+66;"Moscow Does Not Believe in Tears";"PG";"Comedy";1980;"February 11, 1980 (Soviet Union)";8.1;12000.0;"Vladimir Menshov";"Valentin Chernykh";"Vera Alentova";"Soviet Union";900000.0;0.0;"Mosfilm";150.0
+67;"The Fiendish Plot of Dr. Fu Manchu";"PG";"Comedy";1980;"August 8, 1980 (United States)";5.1;2000.0;"Piers Haggard";"Rudy Dochtermann";"Peter Sellers";"United States";0.0;10697276.0;"Braun Entertainment Group";100.0
+68;"Serial";"R";"Comedy";1980;"March 28, 1980 (United States)";6.6;915.0;"Bill Persky";"Cyra McFadden";"Martin Mull";"United States";0.0;9870727.0;"Paramount Pictures";86.0
+69;"Hero at Large";"PG";"Comedy";1980;"February 8, 1980 (United States)";6.0;1500.0;"Martin Davidson";"AJ Carothers";"John Ritter";"United States";0.0;15934737.0;"Kings Road Entertainment";98.0
+70;"Wholly Moses!";"PG";"Comedy";1980;"June 13, 1980 (United States)";4.7;1800.0;"Gary Weis";"Guy Thomas";"Dudley Moore";"United States";0.0;14155617.0;"Columbia Pictures";103.0
+71;"Bon Voyage, Charlie Brown (and Don't Come Back!!)";"G";"Animation";1980;"May 30, 1980 (United States)";7.3;2900.0;"Bill Melendez";"Charles M. Schulz";"Scott Beach";"United States";0.0;2013193.0;"Lee Mendelson Film Productions";75.0
+72;"In God We Trust (or Gimme That Prime Time Religion)";"PG";"Comedy";1980;"September 26, 1980 (United States)";5.5;965.0;"Marty Feldman";"Marty Feldman";"Marty Feldman";"United States";0.0;5215015.0;"Universal Pictures";97.0
+73;"Roadie";"PG";"Comedy";1980;"June 13, 1980 (United States)";5.2;1100.0;"Alan Rudolph";"Big Boy Medlin";"Meat Loaf";"United States";0.0;4226370.0;"Alive Enterprises";106.0
+74;"Just Tell Me What You Want";"R";"Comedy";1980;"January 18, 1980 (United States)";5.5;585.0;"Sidney Lumet";"Jay Presson Allen";"Ali MacGraw";"United States";0.0;2086905.0;"Warner Bros.";112.0
+75;"The Last Flight of Noah's Ark";"G";"Adventure";1980;"June 25, 1980 (United States)";5.8;1300.0;"Charles Jarrott";"Ernest K. Gann";"Elliott Gould";"United States";6000000.0;11000000.0;"Walt Disney Productions";97.0
+76;"Little Miss Marker";"PG";"Comedy";1980;"March 21, 1980 (United States)";6.3;1400.0;"Walter Bernstein";"Damon Runyon";"Walter Matthau";"United States";0.0;6321392.0;"Universal Pictures";103.0
+77;"Willie & Phil";"R";"Comedy";1980;"August 15, 1980 (United States)";5.9;415.0;"Paul Mazursky";"Jean Gruault";"Michael Ontkean";"United States";5500000.0;4400000.0;"Twentieth Century Fox";115.0
+78;"Babylon";"";"Drama";1980;"November 1980 (United Kingdom)";7.4;1300.0;"Franco Rosso";"Franco Rosso";"David N. Haynes";"United Kingdom";0.0;109749.0;"Diversity Music";95.0
+79;"Windwalker";"PG";"Adventure";1980;"November 18, 1983 (Sweden)";6.9;1000.0;"Kieth Merrill";"Ray Goldrup";"Trevor Howard";"United States";3000000.0;0.0;"Santa Fe International";108.0
+80;"Phobia";"R";"Drama";1980;"September 9, 1980 (United States)";4.0;546.0;"John Huston";"Gary Sherman";"Paul Michael Glaser";"Canada";5100000.0;59167.0;"Borough Park Productions";94.0
+81;"Windows";"R";"Drama";1980;"January 18, 1980 (United States)";4.8;643.0;"Gordon Willis";"Barry Siegel";"Talia Shire";"United States";0.0;2128395.0;"Mike Lobell Productions";96.0
+82;"Loving Couples";"PG";"Comedy";1980;"October 24, 1980 (United States)";5.2;351.0;"Jack Smight";"Martin Donovan";"Shirley MacLaine";"United States";0.0;2806659.0;"Time Life Films";97.0
+83;"The King and the Mockingbird";"Not Rated";"Animation";1980;"March 19, 1980 (France)";7.9;4800.0;"Paul Grimault";"Hans Christian Andersen";"Jean Martin";"France";0.0;167451.0;"Les Films Paul Grimault";83.0
+84;"Oh, God! Book II";"PG";"Comedy";1980;"October 3, 1980 (United States)";5.2;2100.0;"Gilbert Cates";"Josh Greenfeld";"George Burns";"United States";0.0;14504277.0;"Warner Bros.";94.0
+85;"Those Lips, Those Eyes";"R";"Comedy";1980;"August 15, 1980 (United States)";6.5;269.0;"Michael Pressman";"David Shaber";"Frank Langella";"United States";0.0;804713.0;"Herb Jaffe";105.0
